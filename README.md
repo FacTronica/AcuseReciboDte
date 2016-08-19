@@ -13,7 +13,7 @@ Para realizar la integración con su software propio se deben realizar 3 proceso
 Consiste en generar un archivo de texto plano con el formato requerido.
 
 Url con Formato Acuse Recibo Dte:
-https://github.com/FacTronica/AcuseReciboDte/blob/master/FormatoAcuseRecibo.php
+<br>https://github.com/FacTronica/AcuseReciboDte/blob/master/FormatoAcuseRecibo.php
 
 <h3>Proceso 2: Enviar Archivo Plano</h3>
 El archivo de texto plano se debe enviar al servidor de facturación.
