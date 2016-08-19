@@ -20,10 +20,10 @@ El archivo de texto plano se debe enviar al servidor de facturación.
 <br>Para realizar este proceso se hace uso de librería opensource CURL.
 
 <br>Enviar archivo desde Consola Windows:
-<br>c:\curl\curl.exe --form "archivito=@c:\curl\archivo_plano.txt" http://www.factronica.cl/sdk/index.php
+<br>c:\curl\curl.exe --form "ArchivoDatos=@c:\curl\archivo_plano.txt" http://www.factronica.cl/sdk/ws_acuserecibodte/index.php
 
 Enviar archivo desde Consola Linux:
-<br>curl --form "archivito=@archivo_plano.txt" http://www.factronica.cl/sdk/index.php
+<br>curl --form "ArchivoDatos=@archivo_plano.txt" http://www.factronica.cl/sdk/ws_acuserecibodte/index.php
 
 <h3>Proceso 3: Recuperar Resultados:</h3>
 Consiste en obtener los archivos con resultados.
