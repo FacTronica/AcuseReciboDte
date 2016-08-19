@@ -27,3 +27,9 @@ Enviar archivo desde Consola Linux:
 
 <h3>Proceso 3: Recuperar Resultados:</h3>
 Consiste en obtener los archivos con resultados.
+
+Recuperar resultados desde Consola Windows:
+c:\curl\curl.exe -o c:\curl\acuserecibodte_rut333333333_tipo33_folio777.xml http://www.factronica.cl/sdk/ws_acuserecibodte/xml/acuserecibodte_rut333333333_tipo33_folio777.xml
+
+Recuperar resultados desde Consola Linux:
+curl -o acuserecibodte_rut333333333_tipo33_folio777.xml http://www.factronica.cl/sdk/ws_acuserecibodte/xml/acuserecibodte_rut333333333_tipo33_folio777.xml
